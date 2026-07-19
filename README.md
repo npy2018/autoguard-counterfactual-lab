@@ -11,6 +11,16 @@
 - 像素或天气生成只能作为辅助证据；
 - 无法高可信验证时自动生成实车定向测试任务。
 
+## 工作流程
+
+<p align="center">
+  <img
+    src="docs/assets/autoguard-counterfactual-lab-flow.jpg"
+    alt="AutoGuard Counterfactual Lab workflow"
+    width="900"
+  />
+</p>
+
 ## 快速运行
 
 ```bash
